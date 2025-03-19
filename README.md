@@ -1,6 +1,5 @@
 <center> Projeto Ignite-Feed </center>
 <h1>Este projeto foi feito em react+vite</h1>
-<hr>
 Foram usadas as bibliotecas:
 <ul>
   <li>
@@ -10,4 +9,7 @@ Foram usadas as bibliotecas:
     date-fns
   </li>
 </ul>
+<hr>
+<center>
 Projeto feito em base a trilha de react da Rocketseat
+</center>

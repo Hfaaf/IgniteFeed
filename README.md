@@ -11,5 +11,5 @@ Foram usadas as bibliotecas:
 </ul>
 <hr>
 <center>
-Projeto feito em base a trilha de react da Rocketseat
+Projeto feito em base a trilha do porto digital de react da Rocketseat
 </center>
